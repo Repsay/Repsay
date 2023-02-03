@@ -1,6 +1,7 @@
 # Welcome to my personal profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jasper%20Delahaije-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperdelahaije)](https://www.linkedin.com/in/jasperdelahaije)
+[![Linkedin Badge](https://img.shields.io/badge/-Jasper%20Delahaije-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperdelahaije)](https://www.linkedin.com/in/jasperdelahaije)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-green?style=flat&logo=Linktree&logoColor=black&link=https://linktr.ee/jdelahaije)](https://linktr.ee/jdelahaije)
 ![Profile Views](https://komarev.com/ghpvc/?username=Repsay&color=brightgreen)
 
 ## :computer: Technologies I Love
