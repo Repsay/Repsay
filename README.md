@@ -26,15 +26,14 @@
  ```python
  class Person:
     name = "Jasper Delahaije"
-    age = 24
-    job = Job("Mechatronics Student", "Saxion University of Applied Sciences")
+    age = 25
+    job = Job("Security Specialist")
     hobbies = ["Programming", "Gaming", "Reading", "Watching Series"]
 
     def getCity(self):
        return Kruikenstad().getRealName()
 
     def getAmbitions(self):
-       self.getAJob()
        self.createMyOwnCompany()
        self.inspirePeople()
        self.makeTheWorldABetterPlace()
