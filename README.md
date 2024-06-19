@@ -15,10 +15,10 @@
 
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,cpp,php,mysql,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,py,cpp,bash)](https://skillicons.dev)
 
 ## Technologies I Use
-[![My Skills](https://skillicons.dev/icons?i=wordpress,vscode,nginx,linux,github,git,django,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,npm,postman,bootstrap,qt,wordpress,django,nginx,linux,aws,postgres,mysql,sqlite,docker,kubernetes,elasticsearch,githubactions,rabbitmq,ros,tensorflow,windows)](https://skillicons.dev)
 
 
 ## Who am I?
