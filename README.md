@@ -1,54 +1,58 @@
-# Welcome to my personal profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# 👋 Welcome to My GitHub Profile
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jasper%20Delahaije-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperdelahaije)](https://www.linkedin.com/in/jasperdelahaije)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-green?style=flat&logo=Linktree&logoColor=black&link=https://linktr.ee/jdelahaije)](https://linktr.ee/jdelahaije)
+Hi, I'm **Jasper Delahaije** — a tech enthusiast, builder, and lifelong learner working at the intersection of security, development, and automation.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Jasper%20Delahaije-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperdelahaije)](https://www.linkedin.com/in/jasperdelahaije)
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-43E55C?style=flat&logo=linktree&logoColor=black&link=https://linktr.ee/jdelahaije)](https://linktr.ee/jdelahaije)
 ![Profile Views](https://komarev.com/ghpvc/?username=Repsay&color=brightgreen)
 
-## :computer: Technologies I Love
+## 🧠 About Me
 
+```python
+class Person:
+    def __init__(self):
+        self.name = "Jasper Delahaije"
+        self.age = 26
+        self.role = "Security Specialist"
+        self.hobbies = ["Programming", "Gaming", "Reading", "Watching Series"]
 
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+    def location(self):
+        return "Tilburg (aka Kruikenstad)"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Repsay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    def ambitions(self):
+        return [
+            "Start my own company",
+            "Inspire others",
+            "Make the world a better place",
+            "Have fun doing it"
+        ]
+```
 
+## 🔍 Interests
 
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,py,cpp,bash)](https://skillicons.dev)
+I'm into building cool things that work and scale. Most of what I do revolves around:
 
-## Technologies I Use
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,npm,postman,bootstrap,qt,wordpress,django,nginx,linux,aws,postgres,mysql,sqlite,docker,kubernetes,elasticsearch,githubactions,rabbitmq,ros,tensorflow,windows)](https://skillicons.dev)
+- 🧠 Machine Learning & AI  
+- 🕸️ Full Stack Web Development  
+- 📊 Data, Automation & APIs  
+- 🔐 Security & Systems Thinking  
 
+## 🛠️ Technologies I Use
 
-## Who am I?
+[![Technologies](https://skillicons.dev/icons?i=bootstrap,jquery,nextjs,tailwind,wordpress,django,nodejs,elasticsearch,mongodb,mysql,postgres,sqlite,aws,docker,kubernetes,nginx,githubactions,git,github,gitlab,postman,vscode,qt,pytorch,tensorflow,rabbitmq,ros,linux,ubuntu,windows)](https://skillicons.dev)
 
- ```python
- class Person:
-    name = "Jasper Delahaije"
-    age = 25
-    job = Job("Security Specialist")
-    hobbies = ["Programming", "Gaming", "Reading", "Watching Series"]
+## 💬 Programming Languages
 
-    def getCity(self):
-       return Kruikenstad().getRealName()
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,md,regex,java,cpp)](https://skillicons.dev)
 
-    def getAmbitions(self):
-       self.createMyOwnCompany()
-       self.inspirePeople()
-       self.makeTheWorldABetterPlace()
-       self.andHaveFunDoingIt()
+## 🔭 What I'm Working On
 
-       return self.success
+Currently building a Django-based platform to compare grocery prices across Dutch supermarkets.  
+Simple idea, practical impact: help people save time and money with transparent pricing.
 
- ```
+[![Supermarket Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Repsay&repo=supermarket-mobile-api-connector&theme=dark)](https://github.com/Repsay/supermarket-mobile-api-connector)
 
-## Current Works
+## 📈 GitHub Stats
 
-Using Django to develop my own platform to check your groceries prices in different supermarkets
-
-[![Supermarket-connector card](https://github-readme-stats.vercel.app/api/pin/?username=Repsay&repo=supermarket-mobile-api-connector&theme=dark)](https://github.com/Repsay/supermarket-mobile-api-connector)
-
-## Other Stuff
-
-[![Repsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Repsay&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Repsay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Jasper’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Repsay&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
