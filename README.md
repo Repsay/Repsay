@@ -19,7 +19,7 @@ Typical problems I work on include:
 
 Alongside my own company, I work as a **software developer in law enforcement**, building and maintaining backend and data-intensive systems.
 
-My academic background is in **Quantitative Finance & Actuarial Science**, which still influences how I approach data, modelling, and problem solving.
+My academic background is in **Mechatronics**, which shaped the way I approach software, systems integration, automation, and technical problem solving.
 
 ## Core stack
 
