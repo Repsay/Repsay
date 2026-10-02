@@ -1,58 +1,54 @@
-# 👋 Welcome to My GitHub Profile
+# Jasper Delahaije
 
-Hi, I'm **Jasper Delahaije** — a tech enthusiast, builder, and lifelong learner working at the intersection of security, development, and automation.
+Software engineer focused on **backend systems, integrations, and automation**.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Jasper%20Delahaije-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jasperdelahaije)](https://www.linkedin.com/in/jasperdelahaije)
-[![Linktree Badge](https://img.shields.io/badge/-Linktree-43E55C?style=flat&logo=linktree&logoColor=black&link=https://linktr.ee/jdelahaije)](https://linktr.ee/jdelahaije)
-![Profile Views](https://komarev.com/ghpvc/?username=Repsay&color=brightgreen)
+[![Website](https://img.shields.io/badge/Website-jasperdelahaije.nl-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://jasperdelahaije.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasper%20Delahaije-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasperdelahaije)
+![Profile Views](https://komarev.com/ghpvc/?username=Repsay&color=grey)
 
-## 🧠 About Me
+## What I do
 
-```python
-class Person:
-    def __init__(self):
-        self.name = "Jasper Delahaije"
-        self.age = 26
-        self.role = "Security Specialist"
-        self.hobbies = ["Programming", "Gaming", "Reading", "Watching Series"]
+I run **[Jasper Delahaije Software & Integraties](https://jasperdelahaije.nl)**, helping Dutch SMEs replace manual work and disconnected systems with reliable software integrations and automation.
 
-    def location(self):
-        return "Tilburg (aka Kruikenstad)"
+Typical problems I work on include:
 
-    def ambitions(self):
-        return [
-            "Start my own company",
-            "Inspire others",
-            "Make the world a better place",
-            "Have fun doing it"
-        ]
-```
+- connecting systems through APIs, files, databases, and custom integrations;
+- replacing repetitive Excel, CSV, export, and copy-paste workflows;
+- automating recurring operational and reporting processes;
+- building backend services and internal tools when an off-the-shelf solution is not enough.
 
-## 🔍 Interests
+Alongside my own company, I work as a **software developer in law enforcement**, building and maintaining backend and data-intensive systems.
 
-I'm into building cool things that work and scale. Most of what I do revolves around:
+My academic background is in **Quantitative Finance & Actuarial Science**, which still influences how I approach data, modelling, and problem solving.
 
-- 🧠 Machine Learning & AI  
-- 🕸️ Full Stack Web Development  
-- 📊 Data, Automation & APIs  
-- 🔐 Security & Systems Thinking  
+## Core stack
 
-## 🛠️ Technologies I Use
+[![Core technologies](https://skillicons.dev/icons?i=py,django,postgres,mysql,docker,rabbitmq,linux,git,github,githubactions,nginx,html,css,js,ts)](https://skillicons.dev)
 
-[![Technologies](https://skillicons.dev/icons?i=bootstrap,jquery,nextjs,tailwind,wordpress,django,nodejs,elasticsearch,mongodb,mysql,postgres,sqlite,aws,docker,kubernetes,nginx,githubactions,git,github,gitlab,postman,vscode,qt,pytorch,tensorflow,rabbitmq,ros,linux,ubuntu,windows)](https://skillicons.dev)
+Most of my day-to-day work revolves around **Python, Django, PostgreSQL/MySQL, Celery, RabbitMQ, Docker, Grafana, Linux, APIs, testing, and CI/CD**.
 
-## 💬 Programming Languages
+## Current focus
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,md,regex,java,cpp)](https://skillicons.dev)
+Right now I am primarily focused on:
 
-## 🔭 What I'm Working On
+- **software integrations for SMEs**;
+- **process automation** that removes repetitive manual work;
+- **Python/Django backend development**;
+- reliable data flows between systems that were never designed to work together;
+- turning practical business problems into maintainable software.
 
-Currently building a Django-based platform to compare grocery prices across Dutch supermarkets.  
-Simple idea, practical impact: help people save time and money with transparent pricing.
+## Open source
 
-[![Supermarket Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Repsay&repo=supermarket-mobile-api-connector&theme=dark)](https://github.com/Repsay/supermarket-mobile-api-connector)
+A recurring theme in my public work is building connectors and integrations around existing systems and APIs.
 
-## 📈 GitHub Stats
+[![Supermarket API Connector](https://github-readme-stats.vercel.app/api/pin/?username=Repsay&repo=supermarket-mobile-api-connector&theme=transparent)](https://github.com/Repsay/supermarket-mobile-api-connector)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Repsay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Jasper’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Repsay&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub activity
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Repsay&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jasper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Repsay&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+For business enquiries: **[jasperdelahaije.nl](https://jasperdelahaije.nl)**
